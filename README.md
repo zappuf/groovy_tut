@@ -65,4 +65,4 @@ This tutorial is a reformatting of the [groovy tutorial from Derek Banas](https:
 
 ## Nextflow 
 
-If you're going through this tutorial to familiarive yourself groovy before learning nextflow, you will be fine going through chapters 1 to 12. 
+If you're going through this tutorial to familiarize yourself groovy before learning nextflow, you will be fine going through chapters 1 to 12. 
